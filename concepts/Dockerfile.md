@@ -61,6 +61,13 @@ EXPOSE 8080
 ```
 
 
+## Souce
+
+<ul>
+   <li>
+     <a href="https://www.youtube.com/watch?v=5QGexrfqu60">Algaworks - O que é Dockerfile?</a>
+   </li>
+ </ul>
 
 
 

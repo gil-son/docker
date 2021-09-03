@@ -2,21 +2,31 @@
 
 ## Docker docs - courses - Docker-for-Developers-with-Docker-Swarm-and-Kubernetes
 
-### What is Docker
+### What is Docker?
 
-<li>
+<ul>
    <li>Docker is software that reduces the complexity of application setup/commands</li>
     <li>Where we configure containers, which are like servers to run our applications</li>
    <li>Easily, we can create independent environments that work on different OS`s</li>
    <li>And it still leaves performance projects</li>
-<li>
+<ul>
 
  
 
 ### Why Docker?
 
-### The Matrix From Hell
+<ul>
+    <li>Docker provides more speed in setting up a dev environment</li>
+     <li>Little time spent on maintenance, containers run as configured</li>
+    <li>Performance to run application, better than a VM</li>
+    <li>Rescue us from the Matrix from Hell</li>
+<ul>
+   
+   
+   
+   
 
+   
 ### Difference of Docker Versions
 
 

@@ -9,7 +9,7 @@
     <li>Where we configure containers, which are like servers to run our applications</li>
    <li>Easily, we can create independent environments that work on different OS`s</li>
    <li>And it still leaves performance projects</li>
-<ul>
+</ul>
 
  
 
@@ -20,10 +20,20 @@
      <li>Little time spent on maintenance, containers run as configured</li>
     <li>Performance to run application, better than a VM</li>
     <li>Rescue us from the Matrix from Hell</li>
-<ul>
+</ul>
    
+
+### The Matrix From Hell
+
+<p>
+    Imagine a company that has computers to install various software. This would require a lot
+    time. Imagine that this company has grown and now it needs these facilities resources to be also
+    installed on other devices such as servers and/or in the cloud. This scenario illustrates what The Matrix From Hell is.
+</p>
    
-   
+<p>
+    The Docker being universal manages to meet these devices with the necessary installations.
+</p>
    
 
    

@@ -60,8 +60,8 @@
 docker run docker/whalesay cowsay Hello_World
 ```
 <p>
-    This command will pull the image from the Docker repository, check if it exists locally, download it in parts and leave it in cache memory.
-    With this the image will be saved in cache and when you do the command again, the same process will not be necessary and it will occur faster
+    This command will check if it exists locally that image, if not the command wiill pull the image from the Docker repository, download it in parts and leave it in cache memory.
+    With this the image will be saved in cache and when you do the command again, the same process will not be necessary, because now exist locally and it will occur faster
 </p>
 
 <hr>

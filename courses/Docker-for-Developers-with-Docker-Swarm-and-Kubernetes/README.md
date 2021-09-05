@@ -46,6 +46,19 @@
 </ul>
 
 
+### Testing Docker
+
+<ul>
+    <li>Testing Docker with a real image</li>
+    <li>To execute containers use the command docker run</li>
+    <li>In this command is possible use many parameters</li>
+    <li>In this example just pass the name of image that is docker/whalesay</li>
+    <li>A command named cowsay and a message</li>
+</ul>
+
+
+
+
 <hr>
 
 

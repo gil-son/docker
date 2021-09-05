@@ -39,6 +39,11 @@
    
 ### Difference of Docker Versions
 
+<ul>
+   <li>Docker is divide in two versions: CE x EE</li>
+    <li>CE is Community Edition, free edition, that possibility use Docker and is use in this course</li>
+   <li>EE is Enterprise Edition, pay edition, there are more assurance of version that are lanched and support from Docker team</li>
+</ul>
 
 
 <hr>

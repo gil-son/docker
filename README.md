@@ -41,7 +41,32 @@ Docker provides tooling and a platform to manage the lifecycle of your container
 
 <div align="center"><img  width="65%" src="https://cs-geonode.readthedocs.io/en/2.8_a/_images/docker.png" /></div>
 
+### Basic commands
 
+
+Verify yours image(s)
+
+```
+docker image list
+```
+
+Get a image
+
+```
+docker image pull name_image
+```
+
+Inspect the image
+
+```
+docker image inspect name_image
+```
+
+execute a container
+
+```
+docker container run <parameters> <image> <CMD> <arguments>
+```
 
 <hr>
 

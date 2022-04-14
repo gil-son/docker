@@ -77,6 +77,9 @@ docker container run <parameters> <image> <CMD> <arguments>
   <li>
      <a href="https://docs.docker.com/get-started/overview/">Docs Docker</a>
   </li>
+ <li>
+     <a href="https://stack.desenvolvedor.expert/appendix/docker/comandos.html">stack.desenvolvedor.expert - commands</a>
+  </li>
 </ul>
 
 
